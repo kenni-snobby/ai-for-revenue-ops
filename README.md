@@ -1,112 +1,109 @@
 # AI for Revenue Operations
 
-## Why This Repository Exists
-
-Most teams use AI to create content.
-
-Few use AI to improve revenue operations.
-
-This repository explores practical applications of AI across:
-
-- Lead Generation
-- CRM Management
-- Pipeline Forecasting
-- Sales Enablement
-- Revenue Analytics
-- Process Automation
+A practical collection of AI frameworks, workflows, and automation strategies designed to help revenue teams improve productivity, forecasting, CRM management, and pipeline performance.
 
 ---
 
-## AI Use Cases
+## What You'll Learn
 
-### Prospect Research
-
-Use AI to:
-
-- Analyze target accounts
-- Identify buying signals
-- Generate account summaries
-- Build outreach personalization
+- AI-powered lead scoring
+- CRM data enrichment
+- Pipeline risk analysis
+- Sales call intelligence
+- Revenue forecasting
+- AI-assisted sales workflows
 
 ---
 
-### CRM Hygiene
+## Framework Components
 
-AI can help:
+### AI Lead Scoring Framework
 
-- Detect missing data
-- Suggest updates
-- Categorize opportunities
-- Maintain pipeline accuracy
+Prioritize leads using fit, intent, and engagement signals.
 
----
+### AI CRM Cleanup Workflow
 
-### Sales Coaching
+Improve CRM data quality through automated enrichment and validation.
 
-Applications include:
+### AI Sales Call Analysis
 
-- Call analysis
-- Objection handling
-- Discovery evaluation
-- Follow-up recommendations
+Use AI to identify coaching opportunities, qualification gaps, and deal risks.
 
----
+### AI Pipeline Risk Scoring
 
-### Revenue Forecasting
+Detect opportunity risk before it impacts revenue forecasts.
 
-AI can:
+### AI Revenue Forecasting
 
-- Predict deal outcomes
-- Identify risk factors
-- Surface pipeline bottlenecks
-- Improve forecast confidence
+Improve forecast accuracy using AI-driven probability and pipeline analysis.
 
 ---
 
-## Tools I Use
+## Who This Is For
 
-### AI
-
-- ChatGPT
-- Claude
-- Gemini
-- Perplexity
-
-### Automation
-
-- Zapier
-- Make
-- n8n
-
-### CRM
-
-- HubSpot
-- Salesforce
-- Zoho CRM
-- Pipedrive
+- Revenue Operations Teams
+- Sales Operations
+- Growth Teams
+- Sales Leaders
+- Startup Founders
+- GTM Leaders
 
 ---
 
-## Operating Principle
+## Key Benefits
 
-> AI should reduce friction.
+### Better Prioritization
 
-Not add complexity.
+Focus on opportunities with the highest revenue potential.
 
-The goal is not more tools.
+### Improved Forecasting
 
-The goal is better decisions.
+Identify risks earlier and improve revenue predictability.
+
+### Cleaner CRM Data
+
+Reduce manual work and improve reporting accuracy.
+
+### Better Coaching
+
+Use AI-generated insights to improve sales performance.
+
+### Increased Productivity
+
+Automate repetitive administrative tasks.
 
 ---
 
-## Current Experiments
+## Outcomes
 
-- AI-assisted lead qualification
-- Pipeline risk scoring
-- CRM workflow automation
-- Meeting intelligence
-- Sales productivity systems
+After applying these frameworks, teams should be able to:
+
+- Improve lead quality
+- Increase conversion rates
+- Improve CRM hygiene
+- Improve forecast accuracy
+- Reduce administrative effort
 
 ---
 
-### Building revenue systems that scale with intelligence.
+## Related Repositories
+
+- CRM Optimization Framework
+- Pipeline Analytics
+- Revenue Ops Blueprints
+- Sales Automation Workflows
+
+---
+
+## Author
+
+Shashank Venugopal
+
+Growth Architect | Revenue Operations | AI Workflows
+
+LinkedIn:
+https://www.linkedin.com/in/shashank-venugopal
+
+---
+
+AI should remove administrative work so revenue teams can focus on growth.
